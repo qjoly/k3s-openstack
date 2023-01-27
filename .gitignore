@@ -1,0 +1,6 @@
+inv_**
+provider.tf
+.terraform
+**tfstate**
+provider.tf
+.terraform.lock.hcl
